@@ -1,3 +1,4 @@
 # merge-conflict1
 creating a merge conflict
-omg i don't know
+
+OMG I don't know what I am doing
